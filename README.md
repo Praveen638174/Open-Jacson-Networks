@@ -1,3 +1,7 @@
+
+# Name : Praveen Raj G
+# Reg no : 212224040245
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
